@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugote de Naranja",
+      "precio": "7000"
+    },
+    {
+      "nombre": "Ribs Eyesitos 800g",
+      "precio": "800",
+      "id": 4
+    },
+    {
+      "nombre": "Jugos de Fresas",
+      "precio": "2000",
+      "id": 5
+    },
+    {
+      "nombre": "Coctel",
+      "precio": 12000,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 5500,
+      "id": 7
+    },
+    {
+      "nombre": "Jugo de maracuya",
+      "precio": 4000,
+      "id": 8
+    }
+  ]
+}
