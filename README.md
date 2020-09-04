@@ -1,5 +1,5 @@
 # react-redux-creacion-productos
 
-React redux creación productos
+Proyecto creación de productos con react, redux thunk and JSON server.
 
 json-server db.json --port 4000
